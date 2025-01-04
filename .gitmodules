@@ -1,3 +1,69 @@
 [submodule "Libft"]
 	path = Libft
 	url = git@github.com:bruak/libft.git
+[submodule "Ft_printf"]
+	path = Ft_printf
+	url = git@github.com:bruak/ft_printf.git
+[submodule "Born2beroot"]
+	path = Born2beroot
+	url = git@github.com:bruak/Born2beroot.git
+[submodule "Get_next_line"]
+	path = Get_next_line
+	url = git@github.com:bruak/get_next_line.git
+[submodule "Minitalk"]
+	path = Minitalk
+	url = git@github.com:bruak/minitalk.git
+[submodule "Push_swap"]
+	path = Push_swap
+	url = git@github.com:bruak/push_swap.git
+[submodule "So_long"]
+	path = So_long
+	url = git@github.com:bruak/so_long.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = git@github.com:bruak/42-philosophers_dinner_problem.git
+[submodule "Minishell"]
+	path = Minishell
+	url = git@github.com:bruak/minishell.git
+[submodule "Necpractice"]
+	path = Necpractice
+	url = git@github.com:bruak/Netpractice.git
+[submodule "Cub3d"]
+	path = Cub3d
+	url = git@github.com:bruak/Cub3d.git
+[submodule "CPP_00"]
+	path = CPP_00
+	url = git@github.com:bruak/CPP_00.git
+[submodule "CPP_01"]
+	path = CPP_01
+	url = git@github.com:bruak/CPP_01.git
+[submodule "CPP_02"]
+	path = CPP_02
+	url = git@github.com:bruak/CPP_02.git
+[submodule "CPP_03"]
+	path = CPP_03
+	url = git@github.com:bruak/CPP_03.git
+[submodule "CPP_04"]
+	path = CPP_04
+	url = git@github.com:bruak/CPP_04.git
+[submodule "CPP_05"]
+	path = CPP_05
+	url = git@github.com:bruak/CPP_05.git
+[submodule "CPP_06"]
+	path = CPP_06
+	url = git@github.com:bruak/CPP_06.git
+[submodule "CPP_07"]
+	path = CPP_07
+	url = git@github.com:bruak/CPP_07.git
+[submodule "CPP_08"]
+	path = CPP_08
+	url = git@github.com:bruak/CPP_08.git
+[submodule "CPP_09"]
+	path = CPP_09
+	url = git@github.com:bruak/CPP_09.git
+[submodule "Ft_irc"]
+	path = Ft_irc
+	url = git@github.com:bruak/ft_irc.git
+[submodule "Inception"]
+	path = Inception
+	url = git@github.com:bruak/inception.git
